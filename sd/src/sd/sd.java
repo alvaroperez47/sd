@@ -8,6 +8,7 @@ public class sd {
 		String nombre="a";
 		System.out.println("adios");
 		String nombre1="b";
+		Strinh nombre2="c";
 	}
 
 }
