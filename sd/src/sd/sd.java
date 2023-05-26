@@ -7,6 +7,7 @@ public class sd {
 		System.out.println("hola");
 		String nombre="a";
 		System.out.println("adios");
+		String nombre1="b";
 	}
 
 }
